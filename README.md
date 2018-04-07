@@ -1,10 +1,8 @@
 ## TSOLO: The Study of Leaderless Organization
 
-This group is for the discussion of leaderless organizations: flat management, anarchy, consensus, etc., on any scale, from the art collective to the scale of large organizations, or even bigger!
+We discuss and research leaderless organization. 
 
-The Study of Leaderless Organization was founded to guide [Dividita](http://dividita.org/) using education. It is our hope that TSOLO will help Dividita accomplish its mission of creating a system enabling group decision-making to run an organization, in lieu of representatives/leaders.
-
-It is also our hope that TSOLO benefits the general public in providing education and fostering innovation in the field of leaderless organization.
+You can join in as an observer or an active contributor. Whatever you choose you're supporting TSOLO's mission of providing the public and [Dividita](http://dividita.org) with research fostering innovation in the field of leaderless organization.
 
 ### Contact
 
