@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## TSOLO: The Study of Leaderless Organization
 
-You can use the [editor on GitHub](https://github.com/dividita/tsolo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This group is for the discussion of leaderless organizations: flat management, anarchy, consensus, etc., on any scale, from the art collective to the scale of large organizations, or even bigger!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Study of Leaderless Organization was founded to guide Divdita (http://dividita.org/) using education. It is our hope that TSOLO will help Dividita accomplish its mission of creating a system enabling group decision-making to run an organization, in lieu of representatives/leaders.
 
-### Markdown
+It is also our hope that TSOLO benefits the general public in providing education and fostering innovation in the field of leaderless organization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
+We are on Discord: https://discord.gg/JxAuPmv
 
-# Header 1
-## Header 2
-### Header 3
+### Book Club
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dividita/tsolo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please subscribe to the [TSOLO Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
