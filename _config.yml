@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: TSOLO
 description: The Study of Leaderless Organization
-logo: logo.png
+logo: /assets/img/logo.png
 show_downloads: false
