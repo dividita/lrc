@@ -14,6 +14,6 @@ Find upcoming discussions on [TSOLO Calendar](https://calendar.google.com/calend
 
 ### Relation to Dividita
 
-[Dividita](http://dividita.org) is aiming to create a system for running collective groups with nonheirarchical group decision-making instead of utilizing representatives or leaders.
+[Dividita](http://dividita.org) is aiming to create a system for running groups/organizations with nonheirarchical group decision-making instead of utilizing representatives or leaders.
 
 [Dividita](http://dividita.org) sets the research goals for TSOLO and works with TSOLO to publish findings.
