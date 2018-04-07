@@ -12,6 +12,6 @@ It is also our hope that TSOLO benefits the general public in providing educatio
 
 ### Book Club
 
-Please subscribe to the [TSOLO Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
+Please subscribe to our [TSOLO Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
 
 Find upcoming discussions on [TSOLO Calendar](https://calendar.google.com/calendar/b/4?cid=ZGl2aWRpdGEub3JnX2ZvN205N2NiMTZuaTExaDNvNWdqNnBrMmRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
