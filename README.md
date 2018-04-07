@@ -1,8 +1,8 @@
 ## TSOLO: The Study of Leaderless Organization
 
-We discuss and research leaderless organization. 
+Presenting TSOLO: The Study of Leaderless Organization
 
-You can join in as an observer or an active contributor. Whatever you choose you're supporting TSOLO's mission of providing the public and [Dividita](http://dividita.org) with research fostering innovation in the field of leaderless organization.
+Join as an observer or an active contributor. Whatever you choose you're helping us provide the public and [Dividita](http://dividita.org) with research fostering innovation in the field of leaderless organization.
 
 ### Contact
 
