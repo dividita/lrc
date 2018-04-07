@@ -8,7 +8,7 @@ It is also our hope that TSOLO benefits the general public in providing educatio
 
 ### Contact
 
-We are on Discord: https://discord.gg/JxAuPmv
+[Join us on Discord!](https://discord.gg/JxAuPmv)
 
 ### Book Club
 
