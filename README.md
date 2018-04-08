@@ -6,12 +6,12 @@ Join as an observer or an active contributor. Whatever you choose you're helping
 
 ### Book Club
 
-Please subscribe to our [TSOLO Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
+Please subscribe to our [LRC Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
 
-Find upcoming discussions on [TSOLO Calendar](https://calendar.google.com/calendar/b/4?cid=ZGl2aWRpdGEub3JnX2ZvN205N2NiMTZuaTExaDNvNWdqNnBrMmRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Find upcoming discussions on [LRC Calendar](https://calendar.google.com/calendar/b/4?cid=ZGl2aWRpdGEub3JnX2ZvN205N2NiMTZuaTExaDNvNWdqNnBrMmRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ### Relation to Dividita
 
 [Dividita](http://dividita.org) is aiming to create a system for running groups/organizations with nonheirarchical group decision-making instead of utilizing representatives or leaders.
 
-[Dividita](http://dividita.org) sets the research goals for TSOLO and works with TSOLO to publish findings.
+[Dividita](http://dividita.org) sets the research goals for LRC and works with LRC to publish findings.
