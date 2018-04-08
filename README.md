@@ -1,6 +1,4 @@
-## TSOLO: The Study of Leaderless Organization
-
-Presenting TSOLO: The Study of Leaderless Organization
+## Dividita LRC: Leaderlessness Research Club
 
 Join as an observer or an active contributor. Whatever you choose you're helping us provide the public and [Dividita](http://dividita.org) with research fostering innovation in the field of leaderless organization.
 
