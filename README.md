@@ -8,7 +8,7 @@ Join as an observer or an active contributor. Whatever you choose you're helping
 
 Please subscribe to our [LRC Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
 
-Find upcoming discussions on [LRC Calendar](https://calendar.google.com/calendar/b/4?cid=ZGl2aWRpdGEub3JnX2ZvN205N2NiMTZuaTExaDNvNWdqNnBrMmRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Find upcoming discussions on [LRC Calendar](https://calendar.google.com/calendar/embed?src=dividita.org_fo7m97cb16ni11h3o5gj6pk2dc%40group.calendar.google.com).
 
 ### Relation to Dividita
 
