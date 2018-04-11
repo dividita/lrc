@@ -4,6 +4,8 @@ Join as an observer or an active contributor. Whatever you choose you're helping
 
 [Join us on Discord (chat)!](https://discord.gg/JxAuPmv)
 
+[View or join our Trello](https://trello.com/leaderlessnessresearchclub)
+
 ### Book Club
 
 Please subscribe to our [LRC Book Club Newsletter](https://mailchi.mp/0bca862bc6f8/dividita-book-club)!
