@@ -4,7 +4,7 @@ Join as an observer or an active contributor. Whatever you choose you're helping
 
 [Join us on Discord (chat)!](https://discord.gg/JxAuPmv)
 
-[View or join our Trello](https://trello.com/leaderlessnessresearchclub)
+[View or join our Trello Team](https://trello.com/leaderlessnessresearchclub)
 
 ### Book Club
 
